@@ -5,6 +5,8 @@
 
 目前已经有几个小伙伴加入了，如果你也想参与，可以申请加入`QQ群：541714071`
 
+请严格按照[指南]（https://github.com/hyperledgerchina/fabric_zh_CN_plan/blob/master/guideline.md）的步骤翻译并提交。提交。
+
 # 章节认领
 | 章节 | 译者 | 校验 |
 | --- | --- | --- |
