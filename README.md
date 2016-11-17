@@ -18,7 +18,7 @@
 | [Setup/Network-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/Network-setup.md) | 黑焰 | - |
 | [Setup/NodeSDK-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/NodeSDK-setup.md) | 黑焰 | - |
 | [Setup/ca-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/ca-setup.md) | 浮白 | 未校验 |
-| [Setup/TLSSetup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/TLSSetup.md) | 浮白 | - |
+| [Setup/TLSSetup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/TLSSetup.md) | 浮白 | 未校验 |
 | [Setup/logging-control.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/logging-control.md) | 浮白 | - |
 | [API/AttributesUsage.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/API/AttributesUsage.md) | 浮白 | - |
 | [API/ChaincodeAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/API/ChaincodeAPI.md) | - | - |
