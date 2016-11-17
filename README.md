@@ -11,8 +11,8 @@
 | [index.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/index.md) | 沧海一声笑 | - |
 | [glossary.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/glossary.md) | 叶华 | 未校验 |
 | [protocol-spec.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/protocol-spec.md) | 王飞平 | - |
-| [biz/usecases.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/biz/usecases.md) | - | - |
-| [starter/fabric-starter-kit.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/starter/fabric-starter-kit.md) | - | - |
+| [biz/usecases.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/biz/usecases.md) | 蹲着 | - |
+| [starter/fabric-starter-kit.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/starter/fabric-starter-kit.md) | 蹲着 | - |
 | [Setup/Chaincode-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/Chaincode-setup.md) | 黑焰 | - |
 | [Setup/JAVAChaincode.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/JAVAChaincode.md) | 黑焰 | - |
 | [Setup/Network-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/Network-setup.md) | 黑焰 | - |
