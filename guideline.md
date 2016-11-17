@@ -8,6 +8,7 @@
 `git pull origin v0.6_zh_CN`
 ####步骤4: 翻译
 对你要翻译的文件传创建对应的文件,比如要翻译文件release.md则创建文件release_zh.md
+`git add .`
 目前只翻译zh_CN目录下的文件
 ####步骤5: 将翻译推送到github
 `git commit -am "这次提交的简要描述"`
