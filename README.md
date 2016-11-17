@@ -19,11 +19,12 @@
 | [Setup/NodeSDK-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/NodeSDK-setup.md) | 黑焰 | - |
 | [Setup/ca-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/ca-setup.md) | 浮白 | 未校验 |
 | [Setup/TLSSetup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/TLSSetup.md) | 浮白 | - |
-| [Setup/logging-control.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/logging-control.md) | - | - |
+| [Setup/logging-control.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/Setup/logging-control.md) | 浮白 | - |
+| [API/AttributesUsage.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/API/AttributesUsage.md) | 浮白 | - |
 | [API/ChaincodeAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/API/ChaincodeAPI.md) | - | - |
-| [API/CoreAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/API/CoreAPI.md) | - | - |
+| [API/CoreAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/API/CoreAPI.md) | 浮白 | - |
 | [API/MemberServicesAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/API/MemberServicesAPI.md) | 浮白 | 未校验 |
-| [SystemChaincodes/noop.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/SystemChaincodes/noop.md) | - | - |
+| [SystemChaincode-noop.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/SystemChaincode-noop.md) | - | - |
 | [abstract_v1.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/abstract_v1.md) | 叶华 | 未校验 |
 | [CONTRIBUTING.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/CONTRIBUTING.md) | - | - |
 | [MAINTAINERS.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/MAINTAINERS.md) | - | - |
@@ -47,7 +48,8 @@
 | [nodeSDK/app-overview.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/nodeSDK/app-overview.md) | - | - |
 | [nodeSDK/node-sdk-guide.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/nodeSDK/node-sdk-guide.md) | - | - |
 | [nodeSDK/node-sdk-indepth.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/nodeSDK/node-sdk-indepth.md) | - | - |
-| [nodeSDK/node-sdk-self-contained.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/nodeSDK/node-sdk-self-contained.md) | - | - |
 | [nodeSDK/sample-standalone-app.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/nodeSDK/sample-standalone-app.md) | - | - |
 | [nodeSDK/sample-web-app.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/nodeSDK/sample-web-app.md) | - | - |
 | [wiki/Next-Consensus-Architecture-Proposal.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/wiki/Next-Consensus-Architecture-Proposal.md) | 王飞平 | - |
+| [releases.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/releases.md) | - | - |
+| [v0.6_migration.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/v0.6_migration.md) | - | - |
