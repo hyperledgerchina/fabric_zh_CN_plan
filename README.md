@@ -41,7 +41,7 @@
 | [FAQ/consensus_FAQ.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/FAQ/consensus_FAQ.md) | - | - |
 | [FAQ/identity_management_FAQ.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/FAQ/identity_management_FAQ.md) | - | - |
 | [FAQ/usage_FAQ.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/FAQ/usage_FAQ.md) | - | - |
-| [tech/application-ACL.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/tech/application-ACL.md) | - | - |
+| [tech/application-ACL.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/tech/application-ACL.md) | 浮白 | - |
 | [tech/attributes.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/tech/attributes.md) | 浮白 | - |
 | [tech/best-practices.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/tech/best-practices.md) | - | - |
 | [nodeSDK/app-developer-env-setup.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6/zh_CN/nodeSDK/app-developer-env-setup.md) | - | - |
