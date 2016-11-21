@@ -6,8 +6,7 @@
 `git checkout v0.6_zh_CN`
 ####步骤3: 翻译前，确保拉取最新的更新
 `git pull origin v0.6_zh_CN`
-####步骤4: 翻译(目前只翻译zh_CN目录下的文件)
-对你要翻译的文件传创建对应的文件,比如要翻译文件release.md则创建文件release_zh.md  
+####步骤4: 翻译(目前只翻译[zh_CN](https://github.com/hyperledgerchina/fabric_zh_CN/tree/v0.6_zh_CN/zh_CN)目录下的文件)  
 ####步骤5: 将翻译推送到github
 `git add .`  
 `git commit -am "这次提交的简要描述"`  
