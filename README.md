@@ -24,7 +24,7 @@
 | [Setup/logging-control.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Setup/logging-control.md) | 浮白 | - |
 | [API/AttributesUsage.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/AttributesUsage.md) | 浮白 | - |
 | [API/ChaincodeAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/ChaincodeAPI.md) | - | - |
-| [API/CoreAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/CoreAPI.md) | 浮白 | 未校验 |
+| [API/CoreAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/CoreAPI.md) | 浮白 | crazybit |
 | [API/MemberServicesAPI.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/API/MemberServicesAPI.md) | 浮白 | 未校验 |
 | [SystemChaincode-noop.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/SystemChaincode-noop.md) | - | - |
 | [abstract_v1.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/abstract_v1.md) | 叶华 | 未校验 |
