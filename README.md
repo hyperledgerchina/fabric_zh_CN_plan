@@ -53,5 +53,5 @@
 | [nodeSDK/sample-standalone-app.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/nodeSDK/sample-standalone-app.md) | - | - |
 | [nodeSDK/sample-web-app.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/nodeSDK/sample-web-app.md) | - | - |
 | [wiki/Next-Consensus-Architecture-Proposal.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/wiki/Next-Consensus-Architecture-Proposal.md) | 王飞平 | - |
-| [releases.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/releases.md) | - | - |
+| [releases.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/releases.md) | 背包 | - |
 | [v0.6_migration.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/v0.6_migration.md) | - | - |
