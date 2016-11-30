@@ -33,9 +33,9 @@
 | [dev-setup/devenv.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/dev-setup/devenv.md) | - | - |
 | [dev-setup/build.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/dev-setup/build.md) | - | - |
 | [Gerrit/lf-account.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Gerrit/lf-account.md) | - | - |
-| [Gerrit/gerrit.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Gerrit/gerrit.md) | - | - |
+| [Gerrit/gerrit.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Gerrit/gerrit.md) | crazybit| 未校验 |
 | [Gerrit/reviewing.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Gerrit/reviewing.md) | - | - |
-| [Gerrit/changes.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Gerrit/changes.md) | - | - |
+| [Gerrit/changes.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Gerrit/changes.md) | crazybit| 未校验 |
 | [Gerrit/best-practices.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Gerrit/best-practices.md) | - | - |
 | [Style-guides/go-style.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/Style-guides/go-style.md) | - | - |
 | [FAQ/chaincode_FAQ.md](https://github.com/hyperledgerchina/fabric_zh_CN/blob/v0.6_zh_CN/zh_CN/FAQ/chaincode_FAQ.md) | fabric | - |
